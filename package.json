@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivlingbhange2510/Nodejs_Eval_25_April.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivlingbhange2510/Nodejs_Eval_25_April/issues"
+  },
+  "homepage": "https://github.com/shivlingbhange2510/Nodejs_Eval_25_April#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.15"
+  }
+}
